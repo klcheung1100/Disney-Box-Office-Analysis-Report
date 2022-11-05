@@ -1,4 +1,5 @@
-# Disney-Box-Office-Analysis-Report
+# Disney Box Office Analysis Project
+# What Kind of movies earn the most in Box Office?
 
 <br> In this project, I explore a dataset of Disney movies and analyze what contributes to the success of Disney movies.
 
