@@ -8,7 +8,7 @@
 <br> The top Disney movie that have earned the most at the box office is the musical, <Snow White and the Seven Dwarfs> released in 21/12/1937. There are 4 Adventure movies and 3 musical ranked top 10 in the history. The most recent one is <Star Wars Ep. VII: The Force Awakens>, which release in 2015, ranked the 7th in the history.
 
 <br>From the top 10 movies above, it seems that some genres are more popular than others. So, I check which genres are growing stronger in popularity. To do this, I group movies by genre and then by year to see the adjusted gross of each genre in each year. I also make a plot out of these means of groups to better see how box office revenues have changed over time.
-<img alt="My Image" src="plot.png>" />
+<img alt="My Image" src="plot.png" />
 
 <br>The line plot supports our belief that some genres are growing faster in popularity than others. For Disney movies, Action and Adventure genres are growing the fastest. Next, I build a linear regression model to understand the relationship between genre and box office gross.
 
