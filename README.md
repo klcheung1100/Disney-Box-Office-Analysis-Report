@@ -4,7 +4,7 @@
 
 <br> Dataset: The Disney data compiled by Kelly Garrett (https://data.world/kgarrett/disney-character-success-00-16). The data contains 579 Disney movies with six features: movie title, release date, genre, MPAA rating, total gross, and inflation-adjusted gross.
 
-<br> 1. I check which are the 10 Disney movies that have earned the most at the box office. I do this by sorting movies by their inflation-adjusted gross (I will call it adjusted gross from this point onward).
+<br> I check which are the 10 Disney movies that have earned the most at the box office. I do this by sorting movies by their inflation-adjusted gross (I will call it adjusted gross from this point onward).
 <br> The top Disney movie that have earned the most at the box office is the musical, <Snow White and the Seven Dwarfs> released in 21/12/1937. There are 4 Adventure movies and 3 musical ranked top 10 in the history. The most recent one is <Star Wars Ep. VII: The Force Awakens>, which release in 2015, ranked the 7th in the history.
 
 <br>From the top 10 movies above, it seems that some genres are more popular than others. So, I check which genres are growing stronger in popularity. To do this, I group movies by genre and then by year to see the adjusted gross of each genre in each year. I also make a plot out of these means of groups to better see how box office revenues have changed over time.
@@ -22,4 +22,4 @@
 
 <br> The confidence intervals from the bootstrap method for the intercept and coefficient do not contain the value zero, as we have already seen that lower and upper bounds of both confidence intervals are positive. These tell us that it is likely that the adjusted gross is significantly correlated with the action and adventure genres.
 
-<br> From the results of the bootstrap analysis and the trend plot we have done earlier, we could say that Disney movies with plots that fit into the <b>action and adventure genre</b>, according to our data, tend to do better in terms of adjusted gross than other genres. So we could expect more Marvel, Star Wars, and live-action movies in the upcoming years!
+<br> From the results of the bootstrap analysis and the trend plot we have done earlier, we could say that Disney movies with plots that fit into the <b><i>action and adventure genre</i></b>, according to our data, tend to do better in terms of adjusted gross than other genres. So we could expect more Marvel, Star Wars, and live-action movies in the upcoming years!
